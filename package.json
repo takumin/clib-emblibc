@@ -1,5 +1,5 @@
 {
-  "name": "emblibc",
+  "name": "clib-emblibc",
   "version": "0.0.1",
   "repo": "takumin/clib-emblibc",
   "description": "Embedded C Standard Library",
