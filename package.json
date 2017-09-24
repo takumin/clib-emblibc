@@ -1,0 +1,24 @@
+{
+  "name": "emblibc",
+  "version": "0.0.1",
+  "repo": "takumin/emblibc",
+  "description": "Embedded C Standard Library",
+  "keywords": [
+    "embedded",
+    "libc"
+  ],
+  "license": "MIT",
+  "src": [
+    "inc/stdio.h",
+    "inc/stdlib.h",
+    "inc/string.h",
+    "inc/unistd.h",
+    "src/string/memcmp.c",
+    "src/string/memcpy.c",
+    "src/string/memset.c",
+    "src/string/strcpy.c",
+    "src/string/strlen.c",
+    "src/unistd/itoa.c",
+    "src/unistd/utoa.c"
+  ]
+}
